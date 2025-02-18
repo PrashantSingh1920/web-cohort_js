@@ -28,7 +28,14 @@ accountCity="mohali"
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
 /*
    if you are using declare more value at a time then use consle.table([])
+    
 
+
+   git add .
+
+   git commit -m "hfkdsj"
+
+   git push -u origin main
 
  */
 
