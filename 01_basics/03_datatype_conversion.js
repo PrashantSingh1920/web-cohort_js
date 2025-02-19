@@ -65,12 +65,16 @@ console.log(2 / 3); // 0.666...
 console.log(2 % 3); // 2 (Remainder)
 
 // String Concatenation
+// String concatenation means joining two or more strings together to form a single string. 
 let str1 = "hello";
 let str2 = " hitesh";
 let str3 = str1 + str2;
 console.log(str3); // "hello hitesh"
 
 // Mixing Numbers and Strings
+//
+
+
 console.log("1" + 2); // "12" (String concatenation)
 console.log(1 + "2"); // "12" (String concatenation)
 console.log("1" + 2 + 2); // "122" (Left to right, treated as string)
